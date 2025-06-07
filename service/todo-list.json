@@ -13,5 +13,10 @@
     "id": 3,
     "text": "API 문서 작성하기",
     "completed": false
+  },
+  {
+    "id": 4,
+    "text": "프로젝트 계획 수립하기",
+    "completed": true
   }
 ]
